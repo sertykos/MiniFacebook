@@ -1,0 +1,130 @@
+
+body 	{
+		background-color: #000033;
+		}
+
+img 	{
+		border-radius: 5px;
+		}
+
+/* div that contain everything */
+
+.todo	{
+		width: 80%;
+		border-radius: 10px;
+		padding: 5px;
+		margin: auto;
+		background-color: white;
+		}
+
+/* img + main articles */
+
+.profimg 	{
+			display: block;
+			float: left;
+			margin-top: 25px;
+			margin-left: 5px;
+			}
+
+.article	{
+			margin-left: 100px;
+			background-color: #D0D0D0;
+			padding: 0px 5px 5px 5px;
+			border-radius: 10px;
+			box-shadow: inset 1px 1px 20px grey;
+			}
+
+
+/* img + title + comment */
+
+.divcom	{
+		box-shadow: 7px 7px 7px grey;
+		margin-right: 5px;
+		padding-bottom: 6px;
+		margin-bottom: 10px;
+		background-color: #B8B8B8;
+		border-radius: 10px;
+		}
+
+.imgcom	{
+		display: block;
+		float: left;
+		}
+
+.com 	{
+		margin-left: 100px;
+		padding-right: 10px;
+		}
+
+.com div	{
+			box-shadow: 7px 7px 7px grey;
+			margin-left: 100px;
+			margin-bottom: 5px;
+			padding-bottom: 4px;
+			padding-left: 5px;
+			border-radius: 10px;
+			}
+
+/**************************************/
+
+.hire	{
+		text-align: center;
+		width: 120px;
+		height: 90px;
+		border-radius: 20px;
+		border: 5px yellow;
+		background-color: white;
+		position: fixed;
+		right: 5px;
+		top: 10px;
+		transition: width 1s, height 1s;
+		overflow: hidden;
+		}
+
+.hire:hover	{
+			width: 300px;
+			height: 260px;
+			}
+
+.hireme	{
+		margin-top: 35px;
+		}
+
+.hiretxt	{
+			width: 280px;
+			height: 50px;
+			text-align: center;
+			float: right;
+			position: relative;
+			}
+
+.me {
+	display: block;
+	float: right;
+	margin: 50px 100px;
+	}
+
+.social	{
+		position: absolute;
+
+		}
+
+.fb	{
+	width: 30px;
+	height: 30px;
+	left: 10px;
+	top: 140px;
+	}
+
+.tw	{
+	margin-left: 35px;
+	width: 35px;
+	height: 35px;
+	left: 10px;
+	top: 137px;
+	}
+
+
+
+/*****************************************/
+
